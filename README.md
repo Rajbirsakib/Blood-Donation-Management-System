@@ -21,5 +21,15 @@ A Blood Donation Management System is a web-based platform to efficiently manage
 - Admin Announcement
 - Informative Section
 
+## UI Implementation
+### Home Page
+![Home Page](Screenshots/1.jpg)
+
+### Admin Dashboard
+![Admin Dashboard](Screenshots/7.jpg)
+
+### User Registration & Dashboard
+![User Registration](Screenshots/3.jpg)
+
 ## Conclusion
 The ”Blood Donation Management System” initiative seeks to play a critical role in saving human lives and reducing fear in emergency circumstances. Any blood receiver can collect and store their desired blood from this web application. Besides, this web application will act as a social service application.
